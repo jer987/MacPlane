@@ -1,2 +1,2 @@
 # MacPlane
-Safari web app for Floatplane on Mac Devices
+It's just a Web App
